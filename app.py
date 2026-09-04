@@ -1,4 +1,4 @@
-"""TalentMatch AI Streamlit homepage."""
+"""ATS Resume Matcher Streamlit homepage."""
 
 import streamlit as st
 
@@ -13,7 +13,7 @@ from utils.skill_extractor import calculate_skill_match, extract_skills
 from utils.text_processor import clean_text
 
 
-st.set_page_config(page_title="TalentMatch AI", page_icon="📄", layout="wide")
+st.set_page_config(page_title="ATS Resume Matcher", page_icon="📄", layout="wide")
 
 st.markdown(
     """
@@ -50,11 +50,11 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("TalentMatch AI")
+st.title("ATS Resume Matcher")
 st.subheader("Smart Resume & Job Matching")
 st.write(
-    "TalentMatch AI will compare a candidate's resume with a job description "
-    "using NLP and machine-learning-based text similarity."
+    "Compare a candidate's resume with a job description using TF-IDF, cosine "
+    "similarity, and skill matching."
 )
 st.info(
     "Upload your resume, enter a job description, and click "

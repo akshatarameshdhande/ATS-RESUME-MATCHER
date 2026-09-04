@@ -1,4 +1,4 @@
-"""TF-IDF and cosine-similarity functions for TalentMatch AI."""
+"""TF-IDF and cosine-similarity functions for ATS Resume Matcher."""
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity

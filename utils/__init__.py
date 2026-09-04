@@ -1,1 +1,1 @@
-"""Utility package for TalentMatch AI."""
+"""Utility package for ATS Resume Matcher."""

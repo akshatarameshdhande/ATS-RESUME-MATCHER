@@ -1,6 +1,6 @@
-# TalentMatch AI — ATS Resume Parser & Matching Engine
+# ATS Resume Matcher
 
-TalentMatch AI is a Streamlit application for comparing a candidate resume with a job description. It accepts a PDF resume, extracts its text with `pdfplumber`, identifies supported skills, measures lexical text similarity with TF-IDF and cosine similarity, and presents an explainable ATS-style match score.
+ATS Resume Matcher is a Python-based, general-purpose ATS resume matching application that parses resumes, extracts skills, and compares candidates against user-provided job descriptions using TF-IDF, cosine similarity, and skill matching. It accepts a PDF resume, extracts its text with `pdfplumber`, and presents an explainable ATS-style match score.
 
 The application is designed to make its scoring components visible rather than presenting an opaque recommendation.
 

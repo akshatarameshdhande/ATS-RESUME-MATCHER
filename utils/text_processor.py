@@ -1,4 +1,4 @@
-"""Simple text-cleaning functions for TalentMatch AI."""
+"""Simple text-cleaning functions for ATS Resume Matcher."""
 
 import re
 

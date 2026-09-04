@@ -1,4 +1,4 @@
-"""Dictionary-based skill extraction for TalentMatch AI."""
+"""Dictionary-based skill extraction for ATS Resume Matcher."""
 
 import csv
 import re

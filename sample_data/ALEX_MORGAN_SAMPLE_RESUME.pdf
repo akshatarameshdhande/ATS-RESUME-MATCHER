@@ -13,7 +13,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 5 0 obj
-<< /Length 1192 >>
+<< /Length 1196 >>
 stream
 BT
 /F1 9 Tf
@@ -61,13 +61,13 @@ T*
 T*
 () Tj
 T*
-(This fictional resume is included solely for TalentMatch AI demonstration and testing.) Tj
+(This fictional resume is included solely for ATS Resume Matcher demonstration and testing.) Tj
 T*
 ET
 endstream
 endobj
 6 0 obj
-<< /Title (TalentMatch AI Synthetic Sample Resume) /Author (TalentMatch AI Contributors) >>
+<< /Title (ATS Resume Matcher Synthetic Sample Resume) /Author (ATS Resume Matcher Contributors) >>
 endobj
 xref
 0 7
@@ -77,9 +77,9 @@ xref
 0000000121 00000 n 
 0000000247 00000 n 
 0000000317 00000 n 
-0000001560 00000 n 
+0000001564 00000 n 
 trailer
 << /Size 7 /Root 1 0 R /Info 6 0 R >>
 startxref
-1667
+1679
 %%EOF
