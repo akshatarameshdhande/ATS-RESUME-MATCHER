@@ -1,0 +1,85 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1192 >>
+stream
+BT
+/F1 9 Tf
+50 740 Td
+12 TL
+(ALEX MORGAN) Tj
+T*
+(alex.morgan@example.com) Tj
+T*
+() Tj
+T*
+(PROFESSIONAL SUMMARY) Tj
+T*
+(Entry-level software, data, and cybersecurity candidate with hands-on project experience.) Tj
+T*
+() Tj
+T*
+(TECHNICAL SKILLS) Tj
+T*
+(Programming: Python, Java, Kotlin, SQL, Bash, Data Structures and Algorithms, OOP) Tj
+T*
+(Web and API: React.js, Node.js, REST APIs, GraphQL, Postman) Tj
+T*
+(Data and AI: Pandas, NumPy, Scikit-learn, Matplotlib, Power BI) Tj
+T*
+(Cloud and DevOps: AWS EC2, AWS S3, Docker, Kubernetes, Terraform, GitHub Actions) Tj
+T*
+(Cybersecurity: SOC Operations, Threat Detection, Incident Response, SIEM, Splunk, Nmap, Wireshark, SSH, OWASP) Tj
+T*
+() Tj
+T*
+(PROJECTS) Tj
+T*
+(SecurePrompt Review Tool - Python and React application for reviewing risky AI prompts.) Tj
+T*
+(Log Monitoring Lab - Splunk SIEM project using SPL queries and simulated network events.) Tj
+T*
+(Data Dashboard - Data analysis dashboard using Python, SQL, and Power BI.) Tj
+T*
+() Tj
+T*
+(EDUCATION) Tj
+T*
+(Bachelor of Science in Computer Science - Fictional University) Tj
+T*
+() Tj
+T*
+(This fictional resume is included solely for TalentMatch AI demonstration and testing.) Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Title (TalentMatch AI Synthetic Sample Resume) /Author (TalentMatch AI Contributors) >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+0000001560 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R /Info 6 0 R >>
+startxref
+1667
+%%EOF
